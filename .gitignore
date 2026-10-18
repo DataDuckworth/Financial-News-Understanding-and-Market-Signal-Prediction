@@ -1,0 +1,1 @@
+__pycache__/\n*.py[cod]\n.venv/\n.env\n.ipynb_checkpoints/\ndata/raw/\nreports/*\n!reports/.gitkeep\n*.joblib\n
